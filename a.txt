@@ -1,2 +1,4 @@
 a.txt
 some text
+text
+column 4
